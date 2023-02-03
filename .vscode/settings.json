@@ -1,0 +1,15 @@
+{
+  "npm.packageManager": "yarn",
+  "eslint.nodePath": ".yarn/sdks",
+  "typescript.tsdk": ".yarn/sdks/typescript/lib",
+  "search.exclude": {
+    "**/.yarn": true,
+    "**/.pnp.*": true
+  },
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#06350F",
+    "titleBar.activeBackground": "#084B15",
+    "titleBar.activeForeground": "#F3FEF5"
+  }
+}
